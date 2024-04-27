@@ -1,0 +1,96 @@
+2MASS J00033534+0002474
+other query
+modes : 	Identifier
+query 	Coordinate
+query 	Criteria
+query 	Reference
+query 	Basic
+query 	Script
+submission 	TAP 		Output
+options 	Object
+types 	Help
+
+Query : 2MASS J00033534+0002474 	
+
+
+Basic data : 	
+2MASS J00033534+0002474 -- Low-mass Star
+Other object types: 	LM* (2008AJ), * (Gaia), NIR (2MASS), Opt (SDSS)
+ICRS coord. (ep=J2000) : 	00 03 35.3428455024 +00 02 47.186030760 (Optical) [ 0.3589 0.2462 90 ] A 2020yCat.1350....0G
+FK4 coord. (ep=B1950 eq=1950) : 	00 01 01.4894723410 -00 13 54.244415885 [ 0.3589 0.2462 90 ]
+Gal coord. (ep=J2000) : 	098.0459132813391 -60.4925487759503 [ 0.3589 0.2462 90 ]
+Proper motions mas/yr : 	27.346 -16.020 [0.407 0.245 90] A 2020yCat.1350....0G
+Radial velocity / Redshift / cz : 	V(km/s) 35 [~] / z(~) 0.000117 [~] / cz 35.00 [~]
+   (Opt) D 2011AJ....141...97W
+Parallaxes (mas): 	3.7162 [0.4338] A 2020yCat.1350....0G
+Spectral type: 	M6V C 2011AJ....141...97W
+Fluxes (9) : 	
+G 19.435341 [0.003850] C 2020yCat.1350....0G
+J 16.207 [0.091] C 2003yCat.2246....0C
+H 15.503 [0.127] C 2003yCat.2246....0C
+K 15.27 [0.18] D 2003yCat.2246....0C
+u (AB) 23.219 [0.699] C 2008ApJS..175..297A
+g (AB) 22.039 [0.084] C 2008ApJS..175..297A
+r (AB) 20.547 [0.035] C 2008ApJS..175..297A
+i (AB) 18.756 [0.014] C 2008ApJS..175..297A
+z (AB) 17.785 [0.024] C 2008ApJS..175..297A
+	
+SIMBAD
+within arcmin
+00 03 35.343 +00 02 47.19
+FoV: 3.98'
+Simbad
+Back 2MASS DSS
+All CDSPortal (CDSPortal)
+Send to sendBySAMP sendBySAMP
+sedIcon
+within arcsec sed-help-icon
+
+Identifiers (6) :
+An access of full data is available using the icon Vizier near the identifier of the catalogue
+
+2MASS J00033534+0002474 [Full data in the catalogue 2MASS] 	SDSS J000335.34+000247.1 [Full data in the catalogue SDSS] 	Gaia DR2 2546000778494424832 [Full data in the catalogue Gaia] 	
+SDSS J000335.35+000247.1 [Full data in the catalogue SDSS] 	TIC 257504312 	Gaia DR3 2546000778494424832 [Full data in the catalogue Gaia] 	
+
+References (3 between 1850 and 2024) (Total 3)
+Simbad bibliographic survey began in 1850 for stars (at least bright stars) and in 1983 for all other objects (outside the solar system).
+Follow new references on this object 	
+                Reference summaries :
+
+                from: to:
+
+                
+or select by : (not exhaustive, explanation here)
+
+Collections of Measurements
+
+
+velocities : 3    distance : 2    PLX : 2    PM : 3    MK : 3   
+
+   
+
+External archives :
+
+Data at NED - NASA/IPAC Extragalactic Database : 2MASS J00033534+0002474
+
+Link by name to the catalogue in VizieR :
+2MASS J00033534+0002474 	SDSS J000335.35+000247.1 	SDSS J000335.34+000247.1 	Gaia DR2 2546000778494424832 	Gaia DR3 2546000778494424832
+
+Search by coordinates in Vizier (radius: 5 arcsec)
+
+Annotations :
+Annotations allow a user to add a note or report an error concerning the astronomical object and its data. It requires registration to post a note. See description .
+Please, have a look at Best practices. The list of all annotations to SIMBAD objects can be found here .
+
+Currently no annotations available
+
+add an annotation to this object
+
+report an error concerning the data of this object
+
+
+
+Store this result in Votable, in Ascii, or in the CDS portal
+
+To bookmark this query, right click on this link: simbad:@4656676 and select 'bookmark this link' or equivalent in the popup menu
+2024.04.27-02:54:41

@@ -1,0 +1,14 @@
+ 		Want to see more from a catalogue? You can use VizieR to search in the same area
+for instance: Gaia DR2, 2MASS, AllWISE, SDSS, others
+Show
+entries
+Search:
+N 	Identifier 	dist(asec) 	Otype 	ICRS (J2000)
+RA 	ICRS (J2000)
+DEC 	Mag U 	Mag B 	Mag V 	Mag R 	Mag I 	Sp type 	#ref
+1850 - 2024 	#notes
+1 	2MASS J00033534+0002474 	99.51 	LM* 	00 03 35.3428455024 	+00 02 47.186030760 	  	  	  	  	  	M6V 	3 	0
+2 	SDSS J000338.57+000432.0 	114.17 	QSO 	00 03 38.5702074840 	+00 04 32.028293208 	  	19.88 	19.72 	  	  	~ 	16 	0 
+
+
+http://simbad.u-strasbg.fr/simbad/sim-coo?Coord=0.9249%2C0.0472%2C0.4738%2C1.5785&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&CooDefinedFrames=none&Radius=2&Radius.unit=arcmin&submit=submit+query&CoordList=

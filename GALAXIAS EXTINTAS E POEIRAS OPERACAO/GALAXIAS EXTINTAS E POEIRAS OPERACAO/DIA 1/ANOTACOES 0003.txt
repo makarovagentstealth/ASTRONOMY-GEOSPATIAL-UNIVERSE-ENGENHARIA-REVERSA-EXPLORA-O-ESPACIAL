@@ -1,0 +1,1 @@
+http://simbad.u-strasbg.fr/simbad/sim-coo?Coord=0.9249%2C0.0472%2C0.4738%2C1.5785&CooFrame=FK5&CooEpoch=2000&CooEqui=2000&CooDefinedFrames=none&Radius=2&Radius.unit=arcmin&submit=submit+query&CoordList=
